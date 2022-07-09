@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/biratdatta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biratdatta1" height="30" width="40" /></a>
 <a href="https://instagram.com/birat.coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="birat.coding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/birat datta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="birat datta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/biratdatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="birat datta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
