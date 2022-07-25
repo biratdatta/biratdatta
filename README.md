@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biratdatta&show_icons=true&locale=en" alt="biratdatta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biratdatta&" alt="biratdatta" /></p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
