@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/biratdatta1" target="blank"><img src="https://img.shields.io/twitter/follow/biratdatta1?logo=twitter&style=for-the-badge" alt="biratdatta1" /></a> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **Smart India Hackathon**
 
 - 🌱 I’m currently learning **JS, MongoDB**
 
