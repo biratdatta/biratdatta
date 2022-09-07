@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [biratdattaportfolio.vercel.app](biratdattaportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [biratdattaportfolio.vercel.app]( https://biratdattaportfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@birat.datta26](https://medium.com/@birat.datta26)
 
@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biratdatta&show_icons=true&locale=en" alt="biratdatta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biratdatta&" alt="biratdatta" /></p>
+
+
