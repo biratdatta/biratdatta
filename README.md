@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [biratdattaportfolio.vercel.app]( https://biratdattaportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [biratdatta.live]( https://biratdatta.live)
 
 - 📝 I regularly write articles on [https://medium.com/@birat.datta26](https://medium.com/@birat.datta26)
 
