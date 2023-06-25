@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/biratdatta1" target="blank"><img src="https://img.shields.io/twitter/follow/biratdatta1?logo=twitter&style=for-the-badge" alt="biratdatta1" /></a> </p>
 
-- 🔭 I’m currently working on **Cheatsheet**
+ 
 
 - 🌱 I’m currently learning **JS, MongoDB**
 
@@ -13,11 +13,10 @@
 
 - 📝 I regularly write articles on [https://medium.com/@birat.datta26](https://medium.com/@birat.datta26)
 
-- 💬 Ask me about **Cloud, Frontend and Ninja Techniques**
+- 💬 Ask me about **Cloud, Frontend and Networking**
 
-- 📫 How to reach me **biratdattaofficial@gmail.com**
-
-- ⚡ Fun fact **I play Guitar**
+- 📫 How to reach me **birat.datta26@gmail.com**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
