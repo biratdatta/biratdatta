@@ -7,13 +7,9 @@
 
  
 
-- 🌱 I’m currently learning **JS, MongoDB**
+- 🌱 I’m currently learning **how to code without destroying**
 
-- 👨‍💻 All of my projects are available at [biratdatta.live]( https://biratdatta.live)
-
-- 📝 I regularly write articles on [https://medium.com/@birat.datta26](https://medium.com/@birat.datta26)
-
-- 💬 Ask me about **Cloud, Frontend and Networking**
+ - 💬 Ask me about **Cloud, Frontend and Networking**
 
 - 📫 How to reach me **birat.datta26@gmail.com**
  
