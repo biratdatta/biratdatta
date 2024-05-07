@@ -28,7 +28,8 @@
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biratdatta&show_icons=true&locale=en&layout=compact" alt="biratdatta" /></p> -->
 
-[![biratdatta's GitHub | Stats](https://stats.quine.sh/biratdatta/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=biratdatta)
+[![biratdatta's GitHub | Stats](https://stats.quine.sh/biratdatta/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=biratdatta)
+[![biratdatta's GitHub | Dependencies](https://stats.quine.sh/biratdatta/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=biratdatta)
 
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biratdatta&show_icons=true&locale=en" alt="biratdatta" /></p> -->
 
